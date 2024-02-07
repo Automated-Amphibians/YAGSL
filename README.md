@@ -23,7 +23,8 @@ SwerveDrive swerveDrive=new SwerveParser(new File(Filesystem.getDeployDirectory(
 - [ ] Install Phoenix Library
 - [ ] Install REVLib.
 - [ ] Install ReduxLib.
-- [ ] Install YAGSL (`https://broncbotz3481.github.io/YAGSL-Lib/yagsl/yagsl.json`)  
+- [ ] Install YAGSL (`https://broncbotz3481.github.io/YAGSL-Lib/yagsl/yagsl.json`)
+- [ ] Install PhotonVision Library (only required for use with example code)
 
 ### [Easy Configuration File Generation](https://broncbotz3481.github.io/YAGSL-Example/)
 
